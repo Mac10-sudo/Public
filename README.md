@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismael Macareno</h1>
-<h3 align="center">A passionate junio sysadmin from Spain</h3>
+<h3 align="center">A passionate junior sysadmin from Spain</h3>
 
 - 🔭 I’m currently working on **GENIUS project**
 
